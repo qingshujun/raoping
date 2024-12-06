@@ -1,7 +1,7 @@
 潮汕频道,#genre#
+汕头综合,http://113.66.229.117:8848/udp/239.77.1.130:5146
 汕头综合,http://113.66.229.117:8848/udp/239.253.43.30:5146
 汕头综合,http://113.66.229.117:8848/udp/239.253.43.45:5146
-汕头综合,http://113.66.229.117:8848/udp/239.77.1.130:5146
 汕头综合,http://183.7.109.93:8088/udp/239.253.43.30:5146
 汕头综合,http://183.7.109.93:8088/udp/239.253.43.45:5146
 汕头综合,http://183.7.109.93:8088/udp/239.77.1.130:5146
@@ -168,10 +168,10 @@
 汕头文旅体育,http://116.28.99.104:10001/udp/239.253.43.47:5146
 汕头文旅体育,http://116.28.99.104:10001/udp/239.77.1.132:5146
 汕头综合,https://stream1.freetv.fun/c31740c7b4676312bcb9533748e7b3c6f4dd987c85caccc1dd6e5632363f6d2c.m3u8
-汕头综合[ipv6],https://stream1.freetv.fun/9585bd251ceb89ed89a45812f120781dac9ddc1ce6c46699a762801c7d48c728.m3u8
+汕头综合,https://stream1.freetv.fun/9585bd251ceb89ed89a45812f120781dac9ddc1ce6c46699a762801c7d48c728.m3u8
 汕头综合,https://stream1.freetv.fun/bafd48d6c8c4bcd8c381185a2bfe78a0d620d9975ad3135286d6a27a81bbd042.m3u8
 汕头综合,https://stream1.freetv.fun/d0c36c88a6f7cd3334f0b600aa9cabbf45ea00db1b13abd0380557230cc2c911.m3u8
-汕头综合[ipv6],https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8
+汕头综合,https://stream1.freetv.fun/be5ce7d687ea1aba7bab0e0bcab040d830a3a0ebc2808f230df3d2c522af1c58.m3u8
 岭南戏曲,http://113.65.9.61:4014/udp/239.77.0.16:5146
 岭南戏曲,http://58.63.66.240:8888/udp/239.77.0.16:5146
 岭南戏曲,http://61.144.101.109:8090/udp/239.77.0.16:5146
@@ -291,18 +291,18 @@
 广东综艺 4K,http://58.63.66.240:8888/udp/239.77.1.237:5146
 广东综艺 4K,http://61.144.101.109:8090/udp/239.77.1.236:5146
 广东综艺 4K,http://61.144.101.109:8090/udp/239.77.1.237:5146
-广东综艺 4k,http://113.65.9.61:4014/udp/239.77.0.244:5146
-广东综艺 4k,http://113.65.9.61:4014/udp/239.77.0.245:5146
-广东综艺 4k,http://113.65.9.61:4014/udp/239.77.0.246:5146
-广东综艺 4k,http://113.65.9.61:4014/udp/239.77.0.252:5146
-广东综艺 4k,http://58.63.66.240:8888/udp/239.77.0.244:5146
-广东综艺 4k,http://58.63.66.240:8888/udp/239.77.0.245:5146
-广东综艺 4k,http://58.63.66.240:8888/udp/239.77.0.246:5146
-广东综艺 4k,http://58.63.66.240:8888/udp/239.77.0.252:5146
-广东综艺 4k,http://61.144.101.109:8090/udp/239.77.0.244:5146
-广东综艺 4k,http://61.144.101.109:8090/udp/239.77.0.245:5146
-广东综艺 4k,http://61.144.101.109:8090/udp/239.77.0.246:5146
-广东综艺 4k,http://61.144.101.109:8090/udp/239.77.0.252:5146
+广东综艺 4K,http://113.65.9.61:4014/udp/239.77.0.244:5146
+广东综艺 4K,http://113.65.9.61:4014/udp/239.77.0.245:5146
+广东综艺 4K,http://113.65.9.61:4014/udp/239.77.0.246:5146
+广东综艺 4K,http://113.65.9.61:4014/udp/239.77.0.252:5146
+广东综艺 4K,http://58.63.66.240:8888/udp/239.77.0.244:5146
+广东综艺 4K,http://58.63.66.240:8888/udp/239.77.0.245:5146
+广东综艺 4K,http://58.63.66.240:8888/udp/239.77.0.246:5146
+广东综艺 4K,http://58.63.66.240:8888/udp/239.77.0.252:5146
+广东综艺 4K,http://61.144.101.109:8090/udp/239.77.0.244:5146
+广东综艺 4K,http://61.144.101.109:8090/udp/239.77.0.245:5146
+广东综艺 4K,http://61.144.101.109:8090/udp/239.77.0.246:5146
+广东综艺 4K,http://61.144.101.109:8090/udp/239.77.0.252:5146
 广东综艺 4K,http://113.111.16.104:8888/udp/239.77.1.236:5146
 广东综艺 4K,http://113.111.16.104:8888/udp/239.77.1.237:5146
 广东综艺 4K,http://113.111.17.180:8888/udp/239.77.1.236:5146
@@ -313,26 +313,26 @@
 广东综艺 4K,http://14.153.161.74:8888/udp/239.77.1.237:5146
 广东综艺 4K,http://183.15.121.8:9000/udp/239.77.1.236:5146
 广东综艺 4K,http://183.15.121.8:9000/udp/239.77.1.237:5146
-广东综艺 4k,http://113.111.16.104:8888/udp/239.77.0.244:5146
-广东综艺 4k,http://113.111.16.104:8888/udp/239.77.0.245:5146
-广东综艺 4k,http://113.111.16.104:8888/udp/239.77.0.246:5146
-广东综艺 4k,http://113.111.16.104:8888/udp/239.77.0.252:5146
-广东综艺 4k,http://113.111.17.180:8888/udp/239.77.0.244:5146
-广东综艺 4k,http://113.111.17.180:8888/udp/239.77.0.245:5146
-广东综艺 4k,http://113.111.17.180:8888/udp/239.77.0.246:5146
-广东综艺 4k,http://113.111.17.180:8888/udp/239.77.0.252:5146
-广东综艺 4k,http://125.94.180.231:8686/udp/239.77.0.244:5146
-广东综艺 4k,http://125.94.180.231:8686/udp/239.77.0.245:5146
-广东综艺 4k,http://125.94.180.231:8686/udp/239.77.0.246:5146
-广东综艺 4k,http://125.94.180.231:8686/udp/239.77.0.252:5146
-广东综艺 4k,http://14.153.161.74:8888/udp/239.77.0.244:5146
-广东综艺 4k,http://14.153.161.74:8888/udp/239.77.0.245:5146
-广东综艺 4k,http://14.153.161.74:8888/udp/239.77.0.246:5146
-广东综艺 4k,http://14.153.161.74:8888/udp/239.77.0.252:5146
-广东综艺 4k,http://183.15.121.8:9000/udp/239.77.0.244:5146
-广东综艺 4k,http://183.15.121.8:9000/udp/239.77.0.245:5146
-广东综艺 4k,http://183.15.121.8:9000/udp/239.77.0.246:5146
-广东综艺 4k,http://183.15.121.8:9000/udp/239.77.0.252:5146
+广东综艺 4K,http://113.111.16.104:8888/udp/239.77.0.244:5146
+广东综艺 4K,http://113.111.16.104:8888/udp/239.77.0.245:5146
+广东综艺 4K,http://113.111.16.104:8888/udp/239.77.0.246:5146
+广东综艺 4K,http://113.111.16.104:8888/udp/239.77.0.252:5146
+广东综艺 4K,http://113.111.17.180:8888/udp/239.77.0.244:5146
+广东综艺 4K,http://113.111.17.180:8888/udp/239.77.0.245:5146
+广东综艺 4K,http://113.111.17.180:8888/udp/239.77.0.246:5146
+广东综艺 4K,http://113.111.17.180:8888/udp/239.77.0.252:5146
+广东综艺 4K,http://125.94.180.231:8686/udp/239.77.0.244:5146
+广东综艺 4K,http://125.94.180.231:8686/udp/239.77.0.245:5146
+广东综艺 4K,http://125.94.180.231:8686/udp/239.77.0.246:5146
+广东综艺 4K,http://125.94.180.231:8686/udp/239.77.0.252:5146
+广东综艺 4K,http://14.153.161.74:8888/udp/239.77.0.244:5146
+广东综艺 4K,http://14.153.161.74:8888/udp/239.77.0.245:5146
+广东综艺 4K,http://14.153.161.74:8888/udp/239.77.0.246:5146
+广东综艺 4K,http://14.153.161.74:8888/udp/239.77.0.252:5146
+广东综艺 4K,http://183.15.121.8:9000/udp/239.77.0.244:5146
+广东综艺 4K,http://183.15.121.8:9000/udp/239.77.0.245:5146
+广东综艺 4K,http://183.15.121.8:9000/udp/239.77.0.246:5146
+广东综艺 4K,http://183.15.121.8:9000/udp/239.77.0.252:5146
 
 ///直播源本地路径：clan://localhost/ITVBox/tv/tvonline.txt
 //直播源在线路径：http://itv.22m.top/ITVBox/tv/tvonline.txt
@@ -524,200 +524,6 @@ CCTV文化精品,http://ha.xushining.com:50000/udp/225.1.2.177:5002$天津联通
 CCTV央视台球,http://ha.xushining.com:50000/udp/225.1.2.170:5002$天津联通组播
 
 
-🇨🇳卫视频道,#genre#
-重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
-
-//黑龙江移动IPV4
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$黑龙江移动IPV4
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$黑龙江移动IPV4
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$黑龙江移动IPV4
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$黑龙江移动IPV4
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$黑龙江移动IPV4
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$黑龙江移动IPV4
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$黑龙江移动IPV4
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$黑龙江移动IPV4
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$黑龙江移动IPV4
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$黑龙江移动IPV4
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$黑龙江移动IPV4
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$黑龙江移动IPV4
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$黑龙江移动IPV4
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$黑龙江移动IPV4
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$黑龙江移动IPV4
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$黑龙江移动IPV4
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$黑龙江移动IPV4
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$黑龙江移动IPV4
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$黑龙江移动IPV4
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$黑龙江移动IPV4
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$黑龙江移动IPV4
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$黑龙江移动IPV4
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$黑龙江移动IPV4
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$黑龙江移动IPV4
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$黑龙江移动IPV4
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$黑龙江移动IPV4
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8$黑龙江移动IPV4
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$黑龙江移动IPV4
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$黑龙江移动IPV4
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8$黑龙江移动IPV4
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$黑龙江移动IPV4
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$黑龙江移动IPV4
-
-//湖南IPV6
-湖南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/1.m3u8$湖南IPV6
-浙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8$湖南IPV6
-江苏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010225/1.m3u8$湖南IPV6
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010219/1.m3u8$湖南IPV6
-北京卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8$湖南IPV6
-广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8$湖南IPV6
-重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8$湖南IPV6
-深圳卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8$湖南IPV6
-四川卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/1.m3u8$湖南IPV6
-广西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8$湖南IPV6
-天津卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8$湖南IPV6
-安徽卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/1.m3u8$湖南IPV6
-山东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/1.m3u8$湖南IPV6
-江西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8$湖南IPV6
-河北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8$湖南IPV6
-东南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8$湖南IPV6
-湖北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010223/1.m3u8$湖南IPV6
-贵州卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8$湖南IPV6
-辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8$湖南IPV6
-黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010222/1.m3u8$湖南IPV6
-云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$湖南IPV6
-甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8$湖南IPV6
-青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8$湖南IPV6
-
-//山东移动IPV6
-东南卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8?IASHttpSessionId=$山东移动IPV6
-东方卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=$山东移动IPV6
-云南卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId=$山东移动IPV6
-北京卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=$山东移动IPV6
-吉林卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=$山东移动IPV6
-四川卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId=$山东移动IPV6
-天津卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId=$山东移动IPV6
-安徽卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId=$山东移动IPV6
-广东卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8?IASHttpSessionId=$山东移动IPV6
-广西卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000368/index.m3u8?IASHttpSessionId=$山东移动IPV6
-江苏卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8?IASHttpSessionId=$山东移动IPV6
-江西卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId=$山东移动IPV6
-河北卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId=$山东移动IPV6
-河南卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000369/index.m3u8?IASHttpSessionId=$山东移动IPV6
-浙江卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId=$山东移动IPV6
-海南卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId=$山东移动IPV6
-深圳卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8?IASHttpSessionId=$山东移动IPV6
-湖北卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId=$山东移动IPV6
-湖南卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=$山东移动IPV6
-甘肃卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId=$山东移动IPV6
-贵州卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000329/index.m3u8?IASHttpSessionId=$山东移动IPV6
-辽宁卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=$山东移动IPV6
-重庆卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId=$山东移动IPV6
-青海卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId=$山东移动IPV6
-黑龙江卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId=$山东移动IPV6
-三沙卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=$山东移动IPV6
-兵团卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000071/index.m3u8?IASHttpSessionId=$山东移动IPV6
-内蒙古卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000040/index.m3u8?IASHttpSessionId=$山东移动IPV6
-厦门卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?IASHttpSessionId=$山东移动IPV6
-宁夏卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId=$山东移动IPV6
-山西卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000032/index.m3u8?IASHttpSessionId=$山东移动IPV6
-延边卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId=$山东移动IPV6
-新疆卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000044/index.m3u8?IASHttpSessionId=$山东移动IPV6
-西藏卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000045/index.m3u8?IASHttpSessionId=$山东移动IPV6
-农林卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId=$山东移动IPV6
-陕西卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000029/index.m3u8?IASHttpSessionId=$山东移动IPV6
-
-//北京联通组播IP端口：coolcat.synology.me:4022
-北京卫视,http://coolcat.synology.me:4022/rtp/239.3.1.241:8000$北京联通组播
-湖南卫视,http://coolcat.synology.me:4022/rtp/239.3.1.132:8012$北京联通组播
-东方卫视,http://coolcat.synology.me:4022/rtp/239.3.1.136:8032$北京联通组播
-浙江卫视,http://coolcat.synology.me:4022/rtp/239.3.1.137:8036$北京联通组播
-江苏卫视,http://coolcat.synology.me:4022/rtp/239.3.1.135:8028$北京联通组播
-深圳卫视,http://coolcat.synology.me:4022/rtp/239.3.1.134:8020$北京联通组播
-广东卫视,http://coolcat.synology.me:4022/rtp/239.3.1.142:8048$北京联通组播
-安徽卫视,http://coolcat.synology.me:4022/rtp/239.3.1.211:8064$北京联通组播
-天津卫视,http://coolcat.synology.me:4022/rtp/239.3.1.141:1234$北京联通组播
-重庆卫视,http://coolcat.synology.me:4022/rtp/239.3.1.122:8160$北京联通组播
-山东卫视,http://coolcat.synology.me:4022/rtp/239.3.1.209:8052$北京联通组播
-河北卫视,http://coolcat.synology.me:4022/rtp/239.3.1.148:8072$北京联通组播
-辽宁卫视,http://coolcat.synology.me:4022/rtp/239.3.1.210:8056$北京联通组播
-湖北卫视,http://coolcat.synology.me:4022/rtp/239.3.1.138:8044$北京联通组播
-吉林卫视,http://coolcat.synology.me:4022/rtp/239.3.1.240:8172$北京联通组播
-贵州卫视,http://coolcat.synology.me:4022/rtp/239.3.1.149:8076$北京联通组播
-东南卫视,http://coolcat.synology.me:4022/rtp/239.3.1.156:8148$北京联通组播
-江西卫视,http://coolcat.synology.me:4022/rtp/239.3.1.123:8164$北京联通组播
-海南卫视,http://coolcat.synology.me:4022/rtp/239.3.1.45:8304$北京联通组播
-云南卫视,http://coolcat.synology.me:4022/rtp/239.3.1.26:8108$北京联通组播
-兵团卫视,http://coolcat.synology.me:4022/rtp/239.3.1.144:4120$北京联通组播
-厦门卫视,http://coolcat.synology.me:4022/rtp/239.3.1.143:4120$北京联通组播
-四川卫视,http://coolcat.synology.me:4022/rtp/239.3.1.29:8288$北京联通组播
-宁夏卫视,http://coolcat.synology.me:4022/rtp/239.3.1.46:8124$北京联通组播
-山西卫视,http://coolcat.synology.me:4022/rtp/239.3.1.42:8172$北京联通组播
-广西卫视,http://coolcat.synology.me:4022/rtp/239.3.1.39:8300$北京联通组播
-新疆卫视,http://coolcat.synology.me:4022/rtp/239.3.1.48:8160$北京联通组播
-河南卫视,http://coolcat.synology.me:4022/rtp/239.3.1.27:8128$北京联通组播
-甘肃卫视,http://coolcat.synology.me:4022/rtp/239.3.1.49:8188$北京联通组播
-西藏卫视,http://coolcat.synology.me:4022/rtp/239.3.1.47:8164$北京联通组播
-三沙卫视,http://coolcat.synology.me:4022/rtp/239.3.1.155:4120$北京联通组播
-陕西卫视,http://coolcat.synology.me:4022/rtp/239.3.1.41:8140$北京联通组播
-青海卫视,http://coolcat.synology.me:4022/rtp/239.3.1.44:8184$北京联通组播
-内蒙古卫视,http://coolcat.synology.me:4022/rtp/239.3.1.43:8176$北京联通组播
-黑龙江卫视,http://coolcat.synology.me:4022/rtp/239.3.1.133:8016$北京联通组播
-
-//河北联通组播IP端口：60.7.56.33:4000
-湖南卫视,http://60.7.56.33:4000/rtp/239.253.92.84:8015$河北联通组播
-浙江卫视,http://60.7.56.33:4000/rtp/239.253.92.90:8020$河北联通组播
-江苏卫视,http://60.7.56.33:4000/rtp/239.253.92.88:8018$河北联通组播
-北京卫视,http://60.7.56.33:4000/rtp/239.253.92.87:8014$河北联通组播
-东南卫视,http://60.7.56.33:4000/rtp/239.253.92.201:6146$河北联通组播
-东方卫视,http://60.7.56.33:4000/rtp/239.253.92.89:8019$河北联通组播
-天津卫视,http://60.7.56.33:4000/rtp/239.253.92.91:8021$河北联通组播
-深圳卫视,http://60.7.56.33:4000/rtp/239.253.92.86:8017$河北联通组播
-山东卫视,http://60.7.56.33:4000/rtp/239.253.92.207:8109$河北联通组播
-广东卫视,http://60.7.56.33:4000/rtp/239.253.92.206:8108$河北联通组播
-黑龙江卫视,http://60.7.56.33:4000/rtp/239.253.92.85:8016$河北联通组播
-辽宁卫视,http://60.7.56.33:4000/rtp/239.253.92.115:6056$河北联通组播
-安徽卫视,http://60.7.56.33:4000/rtp/239.253.92.209:6566$河北联通组播
-湖北卫视,http://60.7.56.33:4000/rtp/239.253.92.210:6567$河北联通组播
-四川卫视,http://60.7.56.33:4000/rtp/239.253.92.16:6043$河北联通组播
-重庆卫视,http://60.7.56.33:4000/rtp/239.253.92.10:6053$河北联通组播
-河南卫视,http://60.7.56.33:4000/rtp/239.253.92.137:6144$河北联通组播
-广西卫视,http://60.7.56.33:4000/rtp/239.253.92.76:8043$河北联通组播
-贵州卫视,http://60.7.56.33:4000/rtp/239.253.92.105:6055$河北联通组播
-江西卫视,http://60.7.56.33:4000/rtp/239.253.92.19:6145$河北联通组播
-吉林卫视,http://60.7.56.33:4000/rtp/239.253.92.202:6147$河北联通组播
-海南卫视,http://60.7.56.33:4000/rtp/239.253.93.155:6323$河北联通组播
-
-
-//天津联通组播IP端口：ha.xushining.com:50000
-安徽卫视,http://ha.xushining.com:50000/udp/225.1.1.127:5002$天津联通组播
-北京卫视,http://ha.xushining.com:50000/udp/225.1.1.113:5002$天津联通组播
-东方卫视,http://ha.xushining.com:50000/udp/225.1.2.31:5002$天津联通组播
-甘肃卫视,http://ha.xushining.com:50000/udp/225.1.1.30:5002$天津联通组播
-广东卫视,http://ha.xushining.com:50000/udp/225.1.1.116:5002$天津联通组播
-深圳卫视,http://ha.xushining.com:50000/udp/225.1.1.117:5002$天津联通组播
-贵州卫视,http://ha.xushining.com:50000/udp/225.1.2.28:5002$天津联通组播
-海南卫视,http://ha.xushining.com:50000/udp/225.1.2.82:5002$天津联通组播
-三沙卫视,http://ha.xushining.com:50000/udp/225.1.2.181:5002$天津联通组播
-河南卫视,http://ha.xushining.com:50000/udp/225.1.2.61:5002$天津联通组播
-黑龙江卫视,http://ha.xushining.com:50000/udp/225.1.1.115:5002$天津联通组播
-湖北卫视,http://ha.xushining.com:50000/udp/225.1.1.147:5002$天津联通组播
-湖南卫视,http://ha.xushining.com:50000/udp/225.1.1.114:5002$天津联通组播
-吉林卫视,http://ha.xushining.com:50000/udp/225.1.2.26:5002$天津联通组播
-江苏卫视,http://ha.xushining.com:50000/udp/225.1.1.126:5002$天津联通组播
-江西卫视,http://ha.xushining.com:50000/udp/225.1.2.29:5002$天津联通组播
-辽宁卫视,http://ha.xushining.com:50000/udp/225.1.1.154:5002$天津联通组播
-内蒙古卫视,http://ha.xushining.com:50000/udp/225.1.1.32:5002$天津联通组播
-宁夏卫视,http://ha.xushining.com:50000/udp/225.1.1.56:5002$天津联通组播
-青海卫视,http://ha.xushining.com:50000/udp/225.1.1.54:5002$天津联通组播
-山西卫视,http://ha.xushining.com:50000/udp/225.1.1.50:5002$天津联通组播
-陕西卫视,http://ha.xushining.com:50000/udp/225.1.1.41:5002$天津联通组播
-四川卫视,http://ha.xushining.com:50000/udp/225.1.1.123:5002$天津联通组播
-西藏卫视,http://ha.xushining.com:50000/udp/225.1.1.51:5002$天津联通组播
-新疆卫视,http://ha.xushining.com:50000/udp/225.1.1.35:5002$天津联通组播
-兵团卫视,http://ha.xushining.com:50000/udp/225.1.1.57:5002$天津联通组播
-广西卫视,http://ha.xushining.com:50000/udp/225.1.2.81:5002$天津联通组播
-云南卫视,http://ha.xushining.com:50000/udp/225.1.1.61:5002$天津联通组播
-浙江卫视,http://ha.xushining.com:50000/udp/225.1.1.112:5002$天津联通组播
-重庆卫视,http://ha.xushining.com:50000/udp/225.1.1.155:5002$天津联通组播
-河北卫视,http://ha.xushining.com:50000/udp/225.1.2.27:5002$天津联通组播
 
 🇨🇳中国移动,#genre#
  CCTV 1, http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=IPTV
@@ -767,76 +573,6 @@ CCTV央视台球,http://ha.xushining.com:50000/udp/225.1.2.170:5002$天津联通
  CGTN 记录, http://gslbserv.itv.cmvideo.cn:80/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=IPTV
  中国教育电视台 1, http://gslbserv.itv.cmvideo.cn:80/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=IPTV
  中国教育电视台 4, http://gslbserv.itv.cmvideo.cn:80/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=IPTV
- 北京卫视, http://gslbserv.itv.cmvideo.cn:80/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=IPTV
- 北京卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265027/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=IPTV
- 北京纪实科教, http://gslbserv.itv.cmvideo.cn:80/1000000001000001910/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=IPTV
- 北京纪实科教 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=IPTV
- 北京卡酷少儿, http://gslbserv.itv.cmvideo.cn:80/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=IPTV
- 安徽卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=IPTV
- 安徽卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000009954/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=IPTV
- 安徽卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265025/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=IPTV
- 东南卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=IPTV
- 东南卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=IPTV
- 甘肃卫视, http://gslbserv.itv.cmvideo.cn:80/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=IPTV
- 广东卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=IPTV
- 广东卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=IPTV
- 广东卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=IPTV
- 广西卫视, http://gslbserv.itv.cmvideo.cn:80/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=IPTV
- 贵州卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=IPTV
- 海南卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=IPTV
- 河北卫视, http://gslbserv.itv.cmvideo.cn:80/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=IPTV
- 河南卫视, http://gslbserv.itv.cmvideo.cn:80/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=IPTV
- 黑龙江卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=IPTV
- 黑龙江卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000016510/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=IPTV
- 黑龙江卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=IPTV
- 湖北卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=IPTV
- 湖北卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000015436/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=IPTV
- 湖北卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265023/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=IPTV
- 湖南卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=IPTV
- 湖南卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000018044/1.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=IPTV
- 湖南卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265024/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=IPTV
- 湖南金鹰纪实, http://gslbserv.itv.cmvideo.cn:80/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=IPTV
- 湖南快乐垂钓, http://gslbserv.itv.cmvideo.cn:80/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=IPTV
- 湖南茶频道, http://gslbserv.itv.cmvideo.cn:80/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=IPTV
- 吉林卫视, http://gslbserv.itv.cmvideo.cn:80/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=IPTV
- 江苏卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000014861/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=IPTV
- 江苏卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=IPTV
- 江苏卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265030/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=IPTV
- 江西卫视, http://gslbserv.itv.cmvideo.cn:80/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=IPTV
- 江西卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265032/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=IPTV
- 辽宁卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=IPTV
- 辽宁卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265022/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=IPTV
- 青海卫视, http://gslbserv.itv.cmvideo.cn:80/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=IPTV
- 山东卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=IPTV
- 山东卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000004134/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=IPTV
- 山东卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265019/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=IPTV
- 上海东方卫视, http://gslbserv.itv.cmvideo.cn:80/6000000001000003639/1.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=IPTV
- 上海东方卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=IPTV
- 上海东方卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=IPTV
- 上海 ICS 外语, http://gslbserv.itv.cmvideo.cn:80/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=IPTV
- 上海第一财经, http://gslbserv.itv.cmvideo.cn:80/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=IPTV
- 上海东方财经, http://gslbserv.itv.cmvideo.cn:80/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=IPTV
- 上海东方影视, http://gslbserv.itv.cmvideo.cn:80/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=IPTV
- 上海都市, http://gslbserv.itv.cmvideo.cn:80/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=IPTV
- 上海法治天地, http://gslbserv.itv.cmvideo.cn:80/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=IPTV
- 上海哈哈炫动, http://gslbserv.itv.cmvideo.cn:80/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=IPTV
- 上海纪实人文 50 FPS, http://gslbserv.itv.cmvideo.cn:80/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=IPTV
- 上海纪实人文 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265021/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=IPTV
- 上海五星体育, http://gslbserv.itv.cmvideo.cn:80/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=IPTV
- 上海新闻综合, http://gslbserv.itv.cmvideo.cn:80/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=IPTV
- 深圳卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=IPTV
- 深圳卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000002116/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=IPTV
- 深圳卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265028/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=IPTV
- 四川卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=IPTV
- 天津卫视, http://gslbserv.itv.cmvideo.cn:80/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=IPTV
- 天津卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=IPTV
- 天津卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=IPTV
- 云南卫视, http://gslbserv.itv.cmvideo.cn:80/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=IPTV
- 浙江卫视 50 FPS, http://gslbserv.itv.cmvideo.cn:80/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=IPTV
- 浙江卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=IPTV
- 浙江卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265031/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=IPTV
- 重庆卫视, http://gslbserv.itv.cmvideo.cn:80/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=IPTV
- 重庆卫视 HEVC, http://gslbserv.itv.cmvideo.cn:80/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=IPTV
  华数 4K, http://gslbserv.itv.cmvideo.cn:80/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=IPTV
  纯享 4K, http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=IPTV
  咪咕4K 1, http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=IPTV
@@ -890,107 +626,8 @@ CCTV央视台球,http://ha.xushining.com:50000/udp/225.1.2.170:5002$天津联通
  SiTV 生活时尚, http://gslbserv.itv.cmvideo.cn:80/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=IPTV
  SiTV 游戏风云, http://gslbserv.itv.cmvideo.cn:80/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=IPTV
 
-🇨🇳台湾频道,#genre#
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-
-八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
-八大综艺台,http://litv.zapi.us.kg/?id=4gtv-4gtv039
-民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
-民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-影迷數位電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
-时尚运动X,http://litv.zapi.us.kg/?id=4gtv-4gtv014
-GLOBETROTTER,http://litv.zapi.us.kg/?id=4gtv-4gtv016
-amc电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-达文西频道,http://litv.zapi.us.kg/?id=4gtv-4gtv018
-中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
-公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-客家电视台,http://litv.zapi.us.kg/?id=4gtv-4gtv043
-靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖洋戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
-非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
-采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
-台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-GinxTV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-靖天欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv054
-靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
-台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
-靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖天戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
-古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
-靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-靖天育乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
-靖天国际台,http://litv.zapi.us.kg/?id=4gtv-4gtv063
-中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-靖天资讯台,http://litv.zapi.us.kg/?id=4gtv-4gtv065
-台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-tvbs精采台,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
-爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
-tvbs新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-tvbs,http://litv.zapi.us.kg/?id=4gtv-4gtv073
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-CATCHPLAY电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-TRACE SPORTS STARS,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-阿里郎,http://litv.zapi.us.kg/?id=4gtv-4gtv079
-中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
-TRACE URBAN,http://litv.zapi.us.kg/?id=4gtv-4gtv082
-MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
-国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
-国会频道2,http://litv.zapi.us.kg/?id=4gtv-4gtv085
-智林体育台,http://litv.zapi.us.kg/?id=4gtv-4gtv101
-国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-第1商業台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155
-民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv156
-美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
-民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
-民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
-半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
-民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13
-爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
-好消息,http://litv.zapi.us.kg/?id=litv-ftv16
-好消息2台,http://litv.zapi.us.kg/?id=litv-ftv17
-龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
-龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
-博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
-博斯高球1,http://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球2,http://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动1,http://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动2,http://litv.zapi.us.kg/?id=litv-longturn08
-博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
-博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
-龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
-龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
-博斯无限2,http://litv.zapi.us.kg/?id=litv-longturn13
-寰宇新闻台,http://litv.zapi.us.kg/?id=litv-longturn14
-寰宇新闻台湾台,http://litv.zapi.us.kg/?id=litv-longturn15
-亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
-龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
-Smart知识台,http://litv.zapi.us.kg/?id=litv-longturn19
-生活英语台,http://litv.zapi.us.kg/?id=litv-longturn20
-龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
-台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
-
 🇭🇰港澳频道,#genre#
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw # http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx # http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=631170156121436&edge=live.tvfree.sbs # http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -1353,7 +990,6 @@ NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge
 死神来了,http://huanqiuzhibo.cn/manifest/huya.php?id=11352903
 蜘蛛侠,http://huanqiuzhibo.cn/manifest/huya.php?id=21059599
 硬汉007,http://huanqiuzhibo.cn/manifest/huya.php?id=21059585
-
 东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
 人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
@@ -1374,6 +1010,107 @@ NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge
 神罚┃狂铁,http://huanqiuzhibo.cn/manifest/huya.php?id=631423
 小涛┃诸葛亮,http://huanqiuzhibo.cn/manifest/huya.php?id=861098
 钟懿┃司马懿,http://huanqiuzhibo.cn/manifest/huya.php?id=23494745
+
+🇨🇳台湾频道,#genre#
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+
+八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺台,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
+猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+影迷數位電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
+时尚运动X,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+GLOBETROTTER,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+amc电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv017
+达文西频道,http://litv.zapi.us.kg/?id=4gtv-4gtv018
+中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
+客家电视台,http://litv.zapi.us.kg/?id=4gtv-4gtv043
+靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖洋戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
+采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+GinxTV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
+靖天欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际台,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+靖天资讯台,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+tvbs精采台,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+tvbs欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+tvbs新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+tvbs,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+CATCHPLAY电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRACE SPORTS STARS,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+阿里郎,http://litv.zapi.us.kg/?id=4gtv-4gtv079
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+TRACE URBAN,http://litv.zapi.us.kg/?id=4gtv-4gtv082
+MEZZO LIVE,http://litv.zapi.us.kg/?id=4gtv-4gtv083
+国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
+国会频道2,http://litv.zapi.us.kg/?id=4gtv-4gtv085
+智林体育台,http://litv.zapi.us.kg/?id=4gtv-4gtv101
+国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
+第1商業台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155
+民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv156
+美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
+民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
+民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
+半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
+民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13
+爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
+好消息,http://litv.zapi.us.kg/?id=litv-ftv16
+好消息2台,http://litv.zapi.us.kg/?id=litv-ftv17
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球1,http://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球2,http://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动1,http://litv.zapi.us.kg/?id=litv-longturn07
+博斯运动2,http://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+博斯无限2,http://litv.zapi.us.kg/?id=litv-longturn13
+寰宇新闻台,http://litv.zapi.us.kg/?id=litv-longturn14
+寰宇新闻台湾台,http://litv.zapi.us.kg/?id=litv-longturn15
+亚洲旅游台,http://litv.zapi.us.kg/?id=litv-longturn17
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+Smart知识台,http://litv.zapi.us.kg/?id=litv-longturn19
+生活英语台,http://litv.zapi.us.kg/?id=litv-longturn20
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
+台湾戏剧台,http://litv.zapi.us.kg/?id=litv-longturn22
+
 
 ♻️数字频道,#genre#
 求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=$山东移动IPV6OTT19019320240419154124000281
